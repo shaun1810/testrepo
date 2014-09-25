@@ -14,4 +14,4 @@ I like :metal:, :video_game: and :beer:
 
 I am also a :neckbeard:.
 
-/play cottoneyejoe
+:/play cottoneyejoe:
