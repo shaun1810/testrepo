@@ -8,4 +8,6 @@ This is a test repository for github.
 
 
 
-hello world
+<h1>hello world</h1>
+
+I like :metal:, :games: and :beer:
