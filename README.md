@@ -13,3 +13,5 @@ This is a test repository for github.
 I like :metal:, :video_game: and :beer:
 
 I am also a :neckbeard:.
+
+/play cottoneyejoe
