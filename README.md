@@ -10,4 +10,4 @@ This is a test repository for github.
 
 <h1>hello world</h1>
 
-I like :metal:, :games: and :beer:
+I like :metal:, :boobies:, :beer:
